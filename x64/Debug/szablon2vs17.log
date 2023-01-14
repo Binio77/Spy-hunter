@@ -1,0 +1,51 @@
+﻿  game.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: "M_PI": ponowna definicja makra
+C:\Projekty_studia\PP\Projekt_PP_2\SDL2-2.0.10\include\SDL_stdinc.h(499,1): message : zobacz poprzednią definicję „M_PI”
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(89,10): warning C4473: „printf”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(89,10): message : symbole zastępcze i ich parametry oczekują 1 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 0
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(89,10): message : brakujący argument 1 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%s”
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(101,45): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(197,34): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(203,34): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(229,83): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(229,69): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(253,31): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(258,77): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(258,65): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(305,30): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(338,123): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(340,123): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(337,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(339,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(343,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(345,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(347,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(349,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(351,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(353,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(355,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(402,138): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(401,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(427,138): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(426,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(435,20): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(446,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(449,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(464,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(469,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(471,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(473,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(475,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(486,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(494,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(496,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(518,23): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(520,149): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(536,24): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(538,153): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(515,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\game.cpp(533,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Projekty_studia\PP\Projekt_PP_2\myvector.h(119): warning C4715: "Myvector<char *>::Get”: niewszystkie ścieżki kodu zwracają wartość
+C:\Projekty_studia\PP\Projekt_PP_2\myvector.h(119): warning C4715: "Myvector<SDL_Surface *>::Get”: niewszystkie ścieżki kodu zwracają wartość
+C:\Projekty_studia\PP\Projekt_PP_2\myvector.h(92): warning C4715: "Myvector<char *>::Pop”: niewszystkie ścieżki kodu zwracają wartość
+  szablon2vs17.vcxproj -> C:\Projekty_studia\PP\Projekt_PP_2\x64\Debug\szablon2vs17.exe

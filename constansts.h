@@ -1,0 +1,10 @@
+#pragma once
+#define ROAD_LINE_HEIGHT 50
+#define ROAD_LINE_WIDTH 10
+#define SCREEN_WIDTH	640
+#define SCREEN_HEIGHT	480
+#define ROAD_WIDTH (SCREEN_WIDTH / 12 * 6)
+#define SHOULDER_WIDTH (SCREEN_WIDTH / 12)
+#define NUMBER_OF_TREES 4
+#define _USE_MATH_DEFINES
+#define NORMAL_SPEED 1 
